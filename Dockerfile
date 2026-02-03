@@ -13,6 +13,7 @@ RUN apt-get update && apt-get install -y \
     curl \
     wget \
     unzip \
+    tex-fmt \
     perl \
     latexml \
     imagemagick \
