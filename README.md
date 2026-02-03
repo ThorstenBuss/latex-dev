@@ -1,7 +1,9 @@
 # LaTeX Docker Environment
+
 Docker image based on TeXLive with TeXLive, LaTeXML, Python scientific packages, and Oh-my-ZSH.
 
 ## Quick Start
+
 You can pull the latest image from [Docker Hub](https://hub.docker.com/r/bussthor/latex-dev):
 ```bash
 docker pull bussthor/latex-dev:latest
